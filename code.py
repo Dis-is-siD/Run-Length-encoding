@@ -1,4 +1,4 @@
-#PF-Assgn-30
+
 i=0
 def encode(message):
     count=1
@@ -28,5 +28,5 @@ def encode(message):
     #Remove pass and write your logic here
 
 #Provide different values for message and test your program
-encoded_message=encode("ABBBBCCCCCCCCAB")
+encoded_message=encode("ABBBBCCCCCCAB")
 print(encoded_message)
